@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="4D59025E-DB33-4039-8948-147277F6CF8B" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Edwards-Mac-mini" Author="" Modified="2026-02-03 10:36:33 -0800" ModID="80B6B0C6-CEF3-4833-A583-FB1ECE124924">
+    <Binder>
+        <BinderItem UUID="00F027E6-59B2-49AE-9FAD-095B46A2EAE5" Type="DraftFolder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="5DBCAB35-3DA2-4542-8E3B-BF57FE9019CF" Type="Folder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>Edited Transcript of File</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="3563B229-BA3A-4701-B242-7E8126D84B72" Type="ResearchFolder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="21B37EE4-5DC4-428E-9342-44CA892AA2E4" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>Diagnostic Impression</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D17DA5E0-B319-4E50-9499-540A67090EA2" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>DSM-5-TR Disorders</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E8DB238B-3F74-4A26-A253-44D4BA3319FF" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>DSM-IV-TR Axis V: Global Assessment of Functioning (GAF)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="6F7EE984-3994-4356-A76E-62926A56F6A8" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>Discussion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D29997A1-998D-4391-904E-D22447F90A58" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of Records Reviewed</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="16732B40-70A2-4D26-9736-EC1BBB77721A" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of Psychological Testing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F2469817-44D8-429F-B1FF-A45B99B30AB0" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of Diagnosis</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A6A6DFE8-51C1-4AD8-9ACC-464D5487A8E3" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of GAF Rating</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5D441873-E0BB-4517-A90D-7332BA65C91D" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Opinion on Causation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C98681FB-33EC-484E-8127-716F0B9706D4" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Permanent and Stationary Status</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DF1C52DF-11DA-4019-ACC7-9E40BA63815C" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Treatment Recommendations</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="882978FE-6DF3-43BE-99AB-B24A42E268C8" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Other Recommended Evaluations</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="67E1EFDC-CDC9-4F1D-B3FE-102D40949B98" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Temporary Disability</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E24C7AF0-737F-45FE-BF3B-8706F3EB0225" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Apportionment According to SB 899, LC 4663</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="B7C7232D-16DA-4E85-B22F-71FC97387AD9" Type="Folder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>Interview of Applicant</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="91C8528D-3BDE-4B3C-A67B-C87506A0F78B" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Chief Complaint and Background Information</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9A253CCA-86FC-4942-9D66-1177D84FE6E0" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>History of Injury and Circumstances of Industrial Stress and Strain, as Reported by the Applicant</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A1E4179E-0EFD-4616-BF74-A9ED3F36D919" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Interval History</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="06923958-FD6F-4D21-B8E8-62E3A5B623C7" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Current Condition</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="94B7E05A-78E8-43A4-A47D-A9509D4CE678" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Current Treatment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="98CB7B1C-B9FC-4536-B2D3-8D977DA034B4" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Current Medications</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BB113E3B-D0DA-43FB-ABEF-8667CB65B9D3" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Current Activities</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>37,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BD0CD477-A36E-4406-ADEB-B73796ED3FDA" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Past Psychiatric History</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>275,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1436B2E4-3464-4CDE-A102-DFCD66778536" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Past Medical History</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="24FCAD45-B063-4B81-8DFE-E8FD5792D337" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Social History</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>258,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7E0034F2-F3E5-40B8-A089-03769BCEEDFF" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Family History</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>135,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8DD1BCF2-C5E9-49F8-89E9-52DD290B99A1" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Occupational History</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BB29187C-D1A6-49C7-A3AA-874E6EF9C7CC" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Concurrent Non-Occupational Stressors</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>235,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="28093CBB-16DF-4130-86ED-A1527C602A8A" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Previous Occupational Injuries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>85,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1203ABB1-51DD-45AE-968B-EDAB79B0D9B4" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Previous Non-Occupational Injuries</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>76,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7523E2D9-BAF7-412C-A5A9-E1664DB846AD" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Mental Status Examination</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="361C3F01-B2CA-45A3-AD3F-26B7D48E3AA5" Type="Folder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>Diagnostic Impression</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="35B59ECB-B3F1-4B6C-A41D-F2367764704D" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>DSM-5-TR Disorders</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="431AB088-35B2-49F6-998D-FABBE94AC4B2" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>DSM-IV-TR Axis V: Global Assessment of Functioning (GAF)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="03DA7B6A-9E1A-4AC8-9E4C-A9B8E2CA12EB" Type="Folder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>Discussion</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="FFE80810-3414-4A00-986C-5A034EB4CCE1" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of Records Reviewed</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="32A2FE75-2BBD-4EE6-B0C3-027D6D829FE6" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of Psychological Testing</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="586F4C28-6DD3-4D1D-8BC3-6C64EFA43957" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of Diagnosis</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BC5B31EE-87AE-4F87-84C7-D96E0E97F342" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of GAF Rating</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>591,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="ED401904-085D-4FB7-B617-11CCEF6F9E6C" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Opinion on Causation</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="173179B5-A78A-4A06-A7A7-3A6F0449773F" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Permanent and Stationary Status</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="735205C5-E91E-4A5A-8F13-B91777BD0950" Type="Folder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>Imported Dictation</Title>
+                    <MetaData>
+                        <SectionType ChildDefault="528D930D-ACBD-41E4-B7E1-B0B8B7ABCFE1">528D930D-ACBD-41E4-B7E1-B0B8B7ABCFE1</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="59ED4D05-34F2-4A53-8E4C-74FE26907D63" Type="Folder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>PS</Title>
+                    <MetaData>
+                        <SectionType>528D930D-ACBD-41E4-B7E1-B0B8B7ABCFE1</SectionType>
+                        <LabelID>0</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="571D4945-BE62-4155-A00E-7F1400A89313" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Factors of Permanent Disability</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>71,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="945CF059-77D3-4420-846B-89F4AFEC7DCC" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Permanent Impairment Rating</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>37,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1FC6958B-9747-4DDF-87CC-010F45E2E2CE" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Discussion of Prior and Future Treatment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4B169DB4-E21F-402C-B23F-0D2BC148E978" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Temporary Disability</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="27F0641D-F2F0-4E26-B25B-75AE1AEE1F5B" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Other Recommended Evaluations</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="71FE84EF-8E62-4D60-BDFE-867A0067A8BB" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>RETURN TO WORK/DWC-AD 10133.36</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>629,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="72E140D7-6683-4494-BDD3-0E8631703BD7" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>APPORTIONMENT ACCORDING TO SB 899, LC 4663</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="B7C84FEF-3F4C-43D8-92B3-2447B45ECF2E" Type="Folder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                    <Title>NON PS</Title>
+                    <MetaData>
+                        <SectionType>528D930D-ACBD-41E4-B7E1-B0B8B7ABCFE1</SectionType>
+                        <LabelID>3</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D7995146-0BD2-4D92-9CF0-FAE467BCF73E" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Treatment Recommendations</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="89709183-9E4A-4B07-A5D6-7B0FAF3E6973" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Other recommended evaluations</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D1D9CEF0-A78A-47C0-BB82-7C14ADA624CF" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>Temporary Disability</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4B5828F8-D3E8-43B9-9C9E-CD1D833495BA" Type="Text" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+                            <Title>APPORTIONMENT ACCORDING TO SB 899, LC 4663</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>125,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F347F7FB-3A79-4BAE-B7CD-2C952655552A" Type="TrashFolder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="RecentSearch" ID="B6B781C3-A41D-449E-AF4C-44418769A0F1" Color="0.922173 0.818612 0.999627">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="SectionType" CaseSensitive="No" IgnoreDiacritics="No">section</SearchSettings>
+        </Collection>
+        <Collection Type="Binder" ID="682EBEBD-7524-4CB9-B198-E59A3BDD3F66" Color="0.974804 0.974804 0.974804">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="BEA049C6-6BEB-4FD4-9BB7-47DB0155AE33" Color="0.759621 0.912339 0.999498">
+            <Title>Dictated History and Exam</Title>
+            <BinderUUIDs>ACD4D046-F7D6-4552-AB5F-3746E2A58DCC,CE402EEE-23C2-4014-89D6-DAAF50CE1744,9E94B25A-41A6-4EA6-8807-C51BE71C2F90,19A0EBD7-D61F-47C8-9C96-588ED2CF968F,596BCF89-4BBB-4F93-88B4-31201A5202A9,6976500C-7609-4C7F-BD35-EBD9DADA4B88,FA940BDD-4A7F-43B1-8D88-DE23A24BC002,06DAB3E6-6A74-42A2-B3B1-44F5657827C7,1A914E91-530D-4A6F-A9D4-EF21C6353CAB,325DE2A4-79FE-417B-82DE-E357CE04D05E,F7631540-619A-496B-B37C-138E9654C9CF,391A0DE7-627C-426A-B1A4-FC572558FD12,2F12DACE-F3F0-4710-B73E-6F6F389C5D13,74A1189F-9A06-47C4-A1F6-D1FDC72BE152,9C7B4142-1B99-4CDF-A410-CE319E2A343D,6D9AD97B-C3E6-4DD3-82B6-34BF2B49D64D,C9CB87AB-60C8-42AF-9CE5-6AF752D729AA,56B832FB-0431-4A4B-B42F-3DC3FB5A0279,FBC3B642-FFEF-4CB2-9CB6-48834099A235,4FF30541-59B0-49E8-8415-CA0BC65FA216,B518B401-492D-4188-9A36-7A0C0EE2C5F1,3AFD0EC6-72FB-4B9C-A57B-13099FD08602,DE7DC536-7064-40A2-8004-1B4CD4AD6947,559A3909-8AE8-430C-BD78-3E9EB7F08AC9</BinderUUIDs>
+        </Collection>
+        <Collection Type="Arbitrary" ID="7254446C-04F3-45C1-A1E4-4B0AA190B13E" Color="0.791645 0.821386 0.999428">
+            <Title>Report output - Permanent and Stationary</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="DD211F98-4246-4043-A5A2-71955830C1CC" Color="0.921874 0.805818 0.999611">
+            <Title>Report output - Non P/S</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="22AE3C8E-CFCF-4B01-B7AE-BF00DD34C48C" Color="0.93934 1.0 0.80366">
+            <Title>PS Discussion Section</Title>
+            <BinderUUIDs>571D4945-BE62-4155-A00E-7F1400A89313,945CF059-77D3-4420-846B-89F4AFEC7DCC,1FC6958B-9747-4DDF-87CC-010F45E2E2CE,4B169DB4-E21F-402C-B23F-0D2BC148E978,27F0641D-F2F0-4E26-B25B-75AE1AEE1F5B,71FE84EF-8E62-4D60-BDFE-867A0067A8BB,72E140D7-6683-4494-BDD3-0E8631703BD7</BinderUUIDs>
+        </Collection>
+        <Collection Type="Arbitrary" ID="07748481-2DEC-44BD-83F0-01EFBBC9757C" Color="0.998939 0.943978 0.675375">
+            <Title>Non-PS Discussion Section</Title>
+            <BinderUUIDs>D7995146-0BD2-4D92-9CF0-FAE467BCF73E,89709183-9E4A-4B07-A5D6-7B0FAF3E6973,D1D9CEF0-A78A-47C0-BB82-7C14ADA624CF,4B5828F8-D3E8-43B9-9C9E-CD1D833495BA</BinderUUIDs>
+        </Collection>
+        <Collection Type="Arbitrary" ID="74FF81B1-7105-4DED-B944-BDCAFF6EC64D" Color="0.996695 0.851959 0.732827">
+            <Title>GAF</Title>
+            <BinderUUIDs>431AB088-35B2-49F6-998D-FABBE94AC4B2,BC5B31EE-87AE-4F87-84C7-D96E0E97F342,7523E2D9-BAF7-412C-A5A9-E1664DB846AD</BinderUUIDs>
+        </Collection>
+        <Collection Type="Arbitrary" ID="A47C346A-D593-44DE-812A-A7203A5ADF38" Color="0.995288 0.788485 0.732724">
+            <Title>Diagnoses</Title>
+            <BinderUUIDs>35B59ECB-B3F1-4B6C-A41D-F2367764704D,586F4C28-6DD3-4D1D-8BC3-6C64EFA43957,9A253CCA-86FC-4942-9D66-1177D84FE6E0,06923958-FD6F-4D21-B8E8-62E3A5B623C7,7523E2D9-BAF7-412C-A5A9-E1664DB846AD</BinderUUIDs>
+        </Collection>
+        <Collection Type="Arbitrary" ID="B6A6D71D-7CEF-4650-9A4C-C09ABADBED87" Color="0.807152 0.946531 0.720969">
+            <Title>History and Exam</Title>
+            <BinderUUIDs>91C8528D-3BDE-4B3C-A67B-C87506A0F78B,9A253CCA-86FC-4942-9D66-1177D84FE6E0,A1E4179E-0EFD-4616-BF74-A9ED3F36D919,06923958-FD6F-4D21-B8E8-62E3A5B623C7,94B7E05A-78E8-43A4-A47D-A9509D4CE678,98CB7B1C-B9FC-4536-B2D3-8D977DA034B4,BB113E3B-D0DA-43FB-ABEF-8667CB65B9D3,BD0CD477-A36E-4406-ADEB-B73796ED3FDA,1436B2E4-3464-4CDE-A102-DFCD66778536,24FCAD45-B063-4B81-8DFE-E8FD5792D337,7E0034F2-F3E5-40B8-A089-03769BCEEDFF,8DD1BCF2-C5E9-49F8-89E9-52DD290B99A1,BB29187C-D1A6-49C7-A3AA-874E6EF9C7CC,28093CBB-16DF-4130-86ED-A1527C602A8A,1203ABB1-51DD-45AE-968B-EDAB79B0D9B4,7523E2D9-BAF7-412C-A5A9-E1664DB846AD</BinderUUIDs>
+        </Collection>
+        <Collection Type="Arbitrary" ID="D1B62EDF-7585-49BC-8450-6D5A4A398941" Color="0.722859 0.815613 0.851031">
+            <Title>Case details</Title>
+            <BinderUUIDs>91C8528D-3BDE-4B3C-A67B-C87506A0F78B</BinderUUIDs>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="17CF89E3-83CB-4822-BB2E-05943FD929D7">Heading</Type>
+            <Type ID="41F35F11-3F09-4640-A357-2B5FF2ABFC8A">Subsection</Type>
+            <Type ID="4DC93BED-FD2D-47CB-B79F-EF3CB04FCC73">Sub-Heading</Type>
+            <Type ID="6A58F931-25FB-419E-9EC7-2B633BFBDAE7">Section</Type>
+            <Type ID="528D930D-ACBD-41E4-B7E1-B0B8B7ABCFE1">Unused Material</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>17CF89E3-83CB-4822-BB2E-05943FD929D7</Type>
+                <Type>17CF89E3-83CB-4822-BB2E-05943FD929D7</Type>
+            </Folders>
+            <Containers>
+                <Type>17CF89E3-83CB-4822-BB2E-05943FD929D7</Type>
+                <Type>17CF89E3-83CB-4822-BB2E-05943FD929D7</Type>
+                <Type>6A58F931-25FB-419E-9EC7-2B633BFBDAE7</Type>
+            </Containers>
+            <Files>
+                <Type>6A58F931-25FB-419E-9EC7-2B633BFBDAE7</Type>
+                <Type>6A58F931-25FB-419E-9EC7-2B633BFBDAE7</Type>
+                <Type>6A58F931-25FB-419E-9EC7-2B633BFBDAE7</Type>
+                <Type>41F35F11-3F09-4640-A357-2B5FF2ABFC8A</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701227 0.732594">Red</Label>
+            <Label ID="1" Color="0.995418 0.790968 0.65239">Orange</Label>
+            <Label ID="2" Color="0.99772 0.892753 0.652574">Yellow</Label>
+            <Label ID="3" Color="0.715848 0.948734 0.697698">Green</Label>
+            <Label ID="4" Color="0.702312 0.888297 0.97426">Blue</Label>
+            <Label ID="5" Color="0.957564 0.766768 0.999625">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-01-10 10:29:14 -0800" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-02-04 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-02-03 10:36:29 -0800"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2026-02-03 10:36:30 -0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

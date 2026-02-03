@@ -25,13 +25,13 @@ Serious symptoms (e.g., suicidal ideation, severe obsessional rituals, frequent 
         <Document ID="98CB7B1C-B9FC-4536-B2D3-8D977DA034B4">
             <Title>Current Medications</Title>
         </Document>
-        <Document ID="28093CBB-16DF-4130-86ED-A1527C602A8A">
-            <Title>Previous Occupational Injuries</Title>
-            <Text>The applicant denied any prior occupational injuries or worker’s compensation claims.</Text>
-        </Document>
         <Document ID="945CF059-77D3-4420-846B-89F4AFEC7DCC">
             <Title>Permanent Impairment Rating</Title>
             <Text>{Insert Permanent Impairment Rating Section}Do not complete here</Text>
+        </Document>
+        <Document ID="28093CBB-16DF-4130-86ED-A1527C602A8A">
+            <Title>Previous Occupational Injuries</Title>
+            <Text>The applicant denied any prior occupational injuries or worker’s compensation claims.</Text>
         </Document>
         <Document ID="571D4945-BE62-4155-A00E-7F1400A89313">
             <Title>Factors of Permanent Disability</Title>
@@ -54,9 +54,6 @@ Deterioration or decompensation in complex or work-like settings:</Text>
         <Document ID="FFE80810-3414-4A00-986C-5A034EB4CCE1">
             <Title>Discussion of Records Reviewed</Title>
         </Document>
-        <Document ID="9A253CCA-86FC-4942-9D66-1177D84FE6E0">
-            <Title>History of Injury and Circumstances of Industrial Stress and Strain, as Reported by the Applicant</Title>
-        </Document>
         <Document ID="D29997A1-998D-4391-904E-D22447F90A58">
             <Title>Discussion of Records Reviewed</Title>
             <Text>***</Text>
@@ -65,6 +62,9 @@ Deterioration or decompensation in complex or work-like settings:</Text>
             <Title>Apportionment According to SB 899, LC 4663</Title>
             <Text>As the applicant's condition has not yet reached permanent and stationary status, a discussion of apportionment is deferred.
 ```</Text>
+        </Document>
+        <Document ID="9A253CCA-86FC-4942-9D66-1177D84FE6E0">
+            <Title>History of Injury and Circumstances of Industrial Stress and Strain, as Reported by the Applicant</Title>
         </Document>
         <Document ID="8DD1BCF2-C5E9-49F8-89E9-52DD290B99A1">
             <Title>Occupational History</Title>
@@ -84,11 +84,11 @@ Deterioration or decompensation in complex or work-like settings:</Text>
             <Title>Opinion on Causation</Title>
             <Text>***</Text>
         </Document>
-        <Document ID="21B37EE4-5DC4-428E-9342-44CA892AA2E4">
-            <Title>Diagnostic Impression</Title>
-        </Document>
         <Document ID="27F0641D-F2F0-4E26-B25B-75AE1AEE1F5B">
             <Title>Other Recommended Evaluations</Title>
+        </Document>
+        <Document ID="4B169DB4-E21F-402C-B23F-0D2BC148E978">
+            <Title>Temporary Disability</Title>
         </Document>
         <Document ID="67E1EFDC-CDC9-4F1D-B3FE-102D40949B98">
             <Title>Temporary Disability</Title>
@@ -99,15 +99,16 @@ Deterioration or decompensation in complex or work-like settings:</Text>
             <Text>The applicant was screened for common personal stressors from the Holmes-Rahe Social Readjustment Rating Scale (Holmes, T. H., &amp; Rahe, R. H., 1967. The social readjustment rating scale. Journal of Psychosomatic Research, 11, 213–218). 
 The most serious and potentially pathogenic stressors listed on the scale include familial loss or disruption, major personal changes in lifestyle of various types, financial difficulties, and certain occupational difficulties including changing line of work and conflict with supervisors.</Text>
         </Document>
-        <Document ID="7523E2D9-BAF7-412C-A5A9-E1664DB846AD">
-            <Title>Mental Status Examination</Title>
+        <Document ID="94B7E05A-78E8-43A4-A47D-A9509D4CE678">
+            <Title>Current Treatment</Title>
+        </Document>
+        <Document ID="F2469817-44D8-429F-B1FF-A45B99B30AB0">
+            <Title>Discussion of Diagnosis</Title>
+            <Text>***</Text>
         </Document>
         <Document ID="4B5828F8-D3E8-43B9-9C9E-CD1D833495BA">
             <Title>APPORTIONMENT ACCORDING TO SB 899, LC 4663</Title>
             <Text>As the applicant’s condition has not yet reached permanent and stationary status, a discussion of apportionment is deferred. </Text>
-        </Document>
-        <Document ID="4B169DB4-E21F-402C-B23F-0D2BC148E978">
-            <Title>Temporary Disability</Title>
         </Document>
         <Document ID="6F7EE984-3994-4356-A76E-62926A56F6A8">
             <Title>Discussion</Title>
@@ -116,15 +117,14 @@ The most serious and potentially pathogenic stressors listed on the scale includ
             <Title>Discussion of GAF Rating</Title>
             <Text>***</Text>
         </Document>
-        <Document ID="94B7E05A-78E8-43A4-A47D-A9509D4CE678">
-            <Title>Current Treatment</Title>
+        <Document ID="7523E2D9-BAF7-412C-A5A9-E1664DB846AD">
+            <Title>Mental Status Examination</Title>
         </Document>
         <Document ID="586F4C28-6DD3-4D1D-8BC3-6C64EFA43957">
             <Title>Discussion of Diagnosis</Title>
         </Document>
-        <Document ID="F2469817-44D8-429F-B1FF-A45B99B30AB0">
-            <Title>Discussion of Diagnosis</Title>
-            <Text>***</Text>
+        <Document ID="21B37EE4-5DC4-428E-9342-44CA892AA2E4">
+            <Title>Diagnostic Impression</Title>
         </Document>
         <Document ID="1FC6958B-9747-4DDF-87CC-010F45E2E2CE">
             <Title>Discussion of Prior and Future Treatment</Title>

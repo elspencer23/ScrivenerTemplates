@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="4D59025E-DB33-4039-8948-147277F6CF8B" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Edwards-Mac-mini" Author="" Modified="2026-02-03 11:24:29 -0800" ModID="232710A4-511D-4ED1-9DA6-F4FA3683C1F3">
+<ScrivenerProject Identifier="4D59025E-DB33-4039-8948-147277F6CF8B" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Edwards-Mac-mini" Author="" Modified="2026-02-03 10:36:33 -0800" ModID="80B6B0C6-CEF3-4833-A583-FB1ECE124924">
     <Binder>
         <BinderItem UUID="00F027E6-59B2-49AE-9FAD-095B46A2EAE5" Type="DraftFolder" Created="2026-02-03 10:36:30 -0800" Modified="2026-02-03 10:36:30 -0800">
             <Title>Draft</Title>
@@ -645,7 +645,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2024-01-10 10:29:14 -0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-02-04 00:00:00 -0800" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-02-03 11:24:18 -0800"/>
+        <PreviousSession Words="0" Characters="0" Date="2026-02-03 10:36:29 -0800"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2026-02-03 10:36:30 -0800">
         <DraftWordCount>0</DraftWordCount>
@@ -653,5 +653,5 @@
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
-    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

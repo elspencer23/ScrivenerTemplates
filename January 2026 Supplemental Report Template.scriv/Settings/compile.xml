@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings Template="Yes">
+    <ProjectSettings>
+        <MetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+        <Replacements>
+            <Replacement RegEx="Yes">
+                <Replace><![CDATA[\n\n]]></Replace>
+                <With><![CDATA[\n]]></With>
+            </Replacement>
+        </Replacements>
+    </ProjectSettings>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="17CF89E3-83CB-4822-BB2E-05943FD929D7">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="6A58F931-25FB-419E-9EC7-2B633BFBDAE7">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="C534B0F9-2CE1-4549-A608-B949D3F2C524">
+            <SectionLayouts>
+                <Type ID="17CF89E3-83CB-4822-BB2E-05943FD929D7">HEADER</Type>
+                <Type ID="41F35F11-3F09-4640-A357-2B5FF2ABFC8A">021747C8-F5F3-4419-A2FB-2869B5048EEA</Type>
+                <Type ID="4DC93BED-FD2D-47CB-B79F-EF3CB04FCC73">AS-IS</Type>
+                <Type ID="6A58F931-25FB-419E-9EC7-2B633BFBDAE7">D19A6469-57E0-4DB6-A79B-525AA85782B5</Type>
+                <Type ID="528D930D-ACBD-41E4-B7E1-B0B8B7ABCFE1">CFCB9FDC-3E36-4C15-A14C-69C9D439E5D5</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <CurrentFileType>docx</CurrentFileType>
+    <LastUsedFormats>
+        <Print>DEFAULT</Print>
+        <docx>C534B0F9-2CE1-4549-A608-B949D3F2C524</docx>
+    </LastUsedFormats>
+</CompileSettings>
